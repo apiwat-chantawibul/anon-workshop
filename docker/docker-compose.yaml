@@ -1,0 +1,15 @@
+name: anon-workshop
+services:
+  notebook:
+    image: anon-workshop
+    build:
+      context: .
+    ports:
+    - 8888:8888
+    working_dir: &WORKDIR
+      /home/jovyan/work
+    volumes:
+    - type: bind
+      source: ..
+      target: *WORKDIR
+
