@@ -39,6 +39,11 @@ Running locally allows you to:
 - make sure the environment version matches the code.
 - use the runtime however you like
 
+## References
+
+Here are some really [important references](notebooks/references.md) that is used in building this workshop material.
+These includes primary source for privcay laws.
+
 ## Your Feedback Matters
 
 If this repository has been helpful, please star it and consider opening a
