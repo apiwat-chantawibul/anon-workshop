@@ -18,6 +18,11 @@
 - เขียนโดย Data Protection Commission ของ Ireland
 - สรุป GDPR ในเรื่องที่เกี่ยวกับ Anonymisation และ Pseudonymisation อย่างกระชับ
 
+## ["Privacy in a Mobile-Social World" course material](https://courses.cs.duke.edu/fall13/compsci590.3/)
+
+- เอกสารประกอบการเรียนปี 2013 ที่ Duke University, NC
+- สอนโดย Ashwin Machanavajjhala ผู้เป็นหนึ่งใน author ของ l-diversity
+
 ## Laws
 
 ### [พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)](https://searchlaw.ocs.go.th/council-of-state/#/public/doc/RnVUTE4zOWxlNzExbDlEQjRwRCtrUT09)
