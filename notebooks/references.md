@@ -30,7 +30,9 @@
 - แหล่งข้อมูลปฐมภูมิสำหรับกฎหมายไทย
 - จาก website สํานักงานคณะกรรมการกฤษฎีกา
 
-### [General Data Protection Regulation (GDPR)](https://gdpr.eu/tag/gdpr/)
+### General Data Protection Regulation (GDPR)
 
-- แหล่งข้อมูลปฐมภูมิสำหรับกฎหมาย EU
-- จาก website GDPR.eu
+แหล่งข้อมูลปฐมภูมิสำหรับกฎหมายปกป้องข้อมูลส่วนบุคคลของ EU
+
+- [ในรูปแบบ website เรื่อง GDPR โดยเฉพาะ](https://gdpr.eu/tag/gdpr/)
+- [ในรูปแบบเอกสารฉบับปรับปรุงล่าสุด (consolidated text)](https://eur-lex.europa.eu/eli/reg/2016/679/2016-05-04)
