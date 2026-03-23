@@ -23,6 +23,10 @@
 - เอกสารประกอบการเรียนปี 2013 ที่ Duke University, NC
 - สอนโดย Ashwin Machanavajjhala ผู้เป็นหนึ่งใน author ของ l-diversity
 
+## [A Comprehensive Guide to Differential Privacy: From Theory to User Expectations](https://arxiv.org/abs/2509.03294)
+
+- อธิบายพื้นฐานทางเทคนิคอย่างครบถ้วน
+
 ## Laws
 
 ### [พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)](https://searchlaw.ocs.go.th/council-of-state/#/public/doc/RnVUTE4zOWxlNzExbDlEQjRwRCtrUT09)
