@@ -27,6 +27,9 @@
 
 - อธิบายพื้นฐานทางเทคนิคอย่างครบถ้วน
 
+## [ISO/IEC 27559:2022](https://www.iso.org/standard/71677.html)
+
+Information security, cybersecurity and privacy protection – Privacy enhancing data de-identification framework
 ## Laws
 
 ### [พระราชบัญญัติคุ้มครองข้อมูลส่วนบุคคล พ.ศ. 2562 (PDPA)](https://searchlaw.ocs.go.th/council-of-state/#/public/doc/RnVUTE4zOWxlNzExbDlEQjRwRCtrUT09)
@@ -40,3 +43,12 @@
 
 - [ในรูปแบบ website เรื่อง GDPR โดยเฉพาะ](https://gdpr.eu/tag/gdpr/)
 - [ในรูปแบบเอกสารฉบับปรับปรุงล่าสุด (consolidated text)](https://eur-lex.europa.eu/eli/reg/2016/679/2016-05-04)
+
+## Tools
+
+### [presidio](https://github.com/microsoft/presidio)
+
+> Context aware, pluggable and customizable PII de-identification service for text and images.
+
+- opensource
+- sponsored by Microsoft
